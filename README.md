@@ -1,16 +1,30 @@
-# shorts
+# Shorts
 
-A new Flutter project.
+A short music entertainment application like Instagram reels using Flutter and Firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Glitch Effect
+- Email & Password Authentication
+- Persisting Auth State
+- View Videos Uploaded by you and other users
+- Search User Profile
+- Upload video using Gallery or Camera
+- Profile 
+- Follow / Unfollow users
+- Comment , Like , Dislike to the video
+- Share 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+(https://user-images.githubusercontent.com/80326453/202840398-fb7d8e4e-f1c3-47fd-a49c-2f9b7bc8cfe4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Running client side 
+
+  ```
+  flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+  
+  ```
+
