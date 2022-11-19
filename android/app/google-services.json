@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86621426689",
+    "project_id": "shorts-dc624",
+    "storage_bucket": "shorts-dc624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86621426689:android:1db545e3dbf159161c1c00",
+        "android_client_info": {
+          "package_name": "com.example.shorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86621426689-oo25n5e15ic61em9no1s2jq7dr5ae7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWrDuUKqUalnh4MOytJrnUwaeSHqSsnaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86621426689-oo25n5e15ic61em9no1s2jq7dr5ae7bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
